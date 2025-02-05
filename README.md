@@ -6,6 +6,7 @@ This is a Todo List web application built using React, TypeScript, and Vite. It 
 🚀 [**View Demo**](https://elena-savitskaya.github.io/todo-list/)
 
 ## Project Structure
+
 -**React** — A JavaScript library for building user interfaces.
 -**TypeScript** — Adds static typing to JavaScript, improving code quality.
 -**Vite** — A fast build tool that provides a lightning-fast development environment.
