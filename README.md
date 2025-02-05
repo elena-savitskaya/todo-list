@@ -1,6 +1,9 @@
 # 🌐 Todo List App
+
 ## 📋 Project Overview
 This is a Todo List web application built using React, TypeScript, and Vite. It features an interactive interface for managing tasks and is designed with performance and scalability in mind.
+
+🚀 [**View Demo**](https://elena-savitskaya.github.io/todo-list/)
 
 ## Project Structure
 -**React** — A JavaScript library for building user interfaces.
